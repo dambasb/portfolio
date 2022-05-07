@@ -10,3 +10,22 @@ footer {
   background-color: #abb6c2;
   color: #0000008c;
 }
+
+.home {
+  margin-top: 150px;
+}
+.home .row {
+  align-items: center !important;
+}
+
+.home span {
+  color: #4c9be8 !important;
+}
+
+.home h3 {
+  margin-bottom: 20px;
+}
+
+.home button {
+  border-radius: 5px;
+}
