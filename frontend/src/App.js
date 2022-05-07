@@ -1,5 +1,14 @@
+import Footer from './components/Footer'
+import Header from './components/Header'
+
 function App() {
-  return <>test</>
+  return (
+    <>
+      <Header />
+      <main>test</main>
+      <Footer />
+    </>
+  )
 }
 
 export default App
