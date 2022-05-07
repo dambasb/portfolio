@@ -1,7 +1,3 @@
-body {
-  overflow: hidden; /* Hide scrollbars */
-}
-
 main {
   min-height: 90vh;
 }
@@ -12,7 +8,7 @@ footer {
 }
 
 .home {
-  margin-top: 150px;
+  margin-top: 250px;
 }
 .home .row {
   align-items: center !important;
@@ -28,4 +24,21 @@ footer {
 
 .home button {
   border-radius: 5px;
+}
+
+.about {
+  margin-top: 250px;
+}
+
+.projects {
+  margin-top: 100px;
+}
+
+.projects h3 {
+  margin-bottom: 30px;
+}
+
+.contact {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
